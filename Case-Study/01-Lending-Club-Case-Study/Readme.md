@@ -2,7 +2,7 @@
 <hr>
 
 <H3>About Case Study</H3>
-<p>This Case Study is part of Graded Assignment under 'Exploratory Data Analysis' Module. We are expected to analyze the given dataset and do various steps involved in Data Understanding, Data Cleaning, Data Visualization & Data Smmarization</p>
+<p>This Case Study is part of Graded Assignment under 'Exploratory Data Analysis' Module. We are expected to analyze the given dataset and do various steps involved in Data Understanding, Data Cleaning, Data Visualization & Data Summarization</p>
 <hr>
 <H3>Business Understanding About the Lending Club Case Study</H3>
 <p>Financial Firms gives Loan to Indivisuals. Once Loan given to Applicant then there are 2 types of Acenarios</p>
